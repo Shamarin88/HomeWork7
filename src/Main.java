@@ -33,6 +33,7 @@ public class Main {
             number++;
             System.out.println(number);
         }
+
         int number1;
 
         for (number1 = 10; number1 > 0; number1--) {
